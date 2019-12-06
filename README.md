@@ -104,3 +104,17 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
+
+
+
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? HTML is a language to allow website creation. Semantic HTML refers to the idea that all HTML markup should convey the meaning of the content, not it's appearance.  
+
+2. Name two big differences between display: block; and display: inline;.
+display: inline-block allows to set a width and height on an element. Also, with display: inline-block, the top and bottom margins/paddings are respected, but with display: inline, they are not. 
+
+3. What are the 4 areas of the box model? content, padding, border, margin
+
+4. While using flexbox, what axis does the following property work on: align-items: center? cross axis
+
+5. Explain why git is valuable to a team of developers.
+Git is a version control system that records changes carried out to a file over time and helps to recall specific verisons of the code later when needed. Allows developers to keep track of each version of the code that is developed. 
