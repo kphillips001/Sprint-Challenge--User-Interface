@@ -191,3 +191,50 @@ footer nav a {
     text-decoration: none;
 }
 
+/* About page */
+.about-page .middle-content {
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: space-between;
+    align-content: flex-start;
+    border: none;
+}
+
+.about-page .middle-content div {
+    width: 372px;
+    margin: 10px;
+}
+
+.about-page .middle-content div h2 {
+    padding: 0;
+    padding-top: 10px;
+}
+
+.about-page .middle-content div p {
+    padding: 20px 0;
+}
+
+.about-page .middle-content div button,
+.blog-page .pagination button {
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 5px 20px;
+    font-size: 14px;
+}
+
+.about-page .middle-content div button:hover,
+.blog-page .pagination button:hover {
+    background-color: black;
+    color: white;
+}
+
+.about-page .middle-content div.plan hr,
+.about-page .middle-content div.working hr,
+.blog-page .blog-entries hr {
+    border: 1px dashed #969696;
+}
+
+.about-page .work-together-text {
+    padding: 0 10px;
+    padding-bottom: 40px;
+}
